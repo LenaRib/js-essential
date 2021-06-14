@@ -1,2 +1,3 @@
-# js-essential
-LinkedIn JavaScript essential training by Morten Rand-Hendriksen
+## JavaScript essential training
+LinkedIn JavaScript essential training by Morten Rand-Hendriksen with topics covered:
+* building functions
