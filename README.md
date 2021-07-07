@@ -1,4 +1,7 @@
 ## JavaScript essential training
-LinkedIn JavaScript essential training by Morten Rand-Hendriksen with topics covered:
+LinkedIn JavaScript essential training by Morten Rand-Hendriksen with topics:
 * functions
-* classes and objects
+* classes
+* data structure and objects
+* DOM
+* Event Listener
